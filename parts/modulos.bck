@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA2012
+D audio VCA
+K AUDIO VCA
+$ENDCMP
+#
+#End Doc Library
