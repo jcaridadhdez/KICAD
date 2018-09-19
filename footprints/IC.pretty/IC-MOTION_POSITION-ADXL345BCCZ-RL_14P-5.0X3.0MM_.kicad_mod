@@ -1,0 +1,149 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+LGA14-0.8-5.0X3.0MM
+$EndINDEX
+$MODULE LGA14-0.8-5.0X3.0MM
+Po 0 0 0 15 00000000 00000000 ~~
+Li LGA14-0.8-5.0X3.0MM
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -2.57384 0.0760714 0.700637 0.700637 900 0.05 N V 21 "LGA14-0.8-5.0X3.0MM"
+T1 2.48705 -0.350142 0.701283 0.701283 900 0.05 N V 21 "VAL**"
+DS -1.5 2.5 -1.5 -2.08378 0.127 24
+DS -1.5 -2.08378 -1.08377 -2.5 0.127 24
+DS -1.08377 -2.5 1.5 -2.5 0.127 24
+DS 1.5 -2.5 1.5 2.5 0.127 24
+DS 1.5 2.5 -1.5 2.5 0.127 24
+DC -1.5745 -2.762 -1.3205 -2.762 0 21
+DP 0 0 0 0 4 0 26
+Dl -1.50428 -2.5
+Dl 1.5 -2.5
+Dl 1.5 2.50714
+Dl -1.50428 2.50714
+DS -1.5 -2.4 -1.4 -2.5 0.127 21
+DS -1.4 -2.5 -0.4 -2.5 0.127 21
+DS 0.4 -2.5 1.5 -2.5 0.127 21
+DS 1.5 -2.5 1.5 -2.4 0.127 21
+DS 0.4 2.5 1.5 2.5 0.127 21
+DS 1.5 2.5 1.5 2.4 0.127 21
+DS -0.4 2.5 -1.5 2.5 0.127 21
+DS -1.5 2.5 -1.5 2.4 0.127 21
+$PAD
+Sh "1" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 -2
+$EndPAD
+$PAD
+Sh "2" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 -1.2
+$EndPAD
+$PAD
+Sh "3" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 -0.4
+$EndPAD
+$PAD
+Sh "4" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 0.4
+$EndPAD
+$PAD
+Sh "5" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 1.2
+$EndPAD
+$PAD
+Sh "6" R 1.2 0.5 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 2
+$EndPAD
+$PAD
+Sh "7" R 1.2 0.5 0 0 900
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 2.2
+$EndPAD
+$PAD
+Sh "8" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 2
+$EndPAD
+$PAD
+Sh "9" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 1.2
+$EndPAD
+$PAD
+Sh "10" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 0.4
+$EndPAD
+$PAD
+Sh "11" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 -0.4
+$EndPAD
+$PAD
+Sh "12" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 -1.2
+$EndPAD
+$PAD
+Sh "13" R 1.2 0.5 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.2 -2
+$EndPAD
+$PAD
+Sh "14" R 1.2 0.5 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -2.2
+$EndPAD
+$EndMODULE LGA14-0.8-5.0X3.0MM
