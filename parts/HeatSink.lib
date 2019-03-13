@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# PF752
+#
+DEF PF752 KK 0 40 N N 1 L N
+F0 "KK" -65 -100 50 V V L BNN
+F1 "PF752" 145 -100 50 V V L BNN
+F2 "PF752" 0 0 50 H I L BNN
+F3 "PF752" 0 0 50 H I L BNN
+F4 "Aavid Thermalloy" 0 0 50 H I L BNN
+F5 "TO-220 Aavid Thermalloy" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "Unavailable" 0 0 50 H I L BNN
+F8 "Hardware HEATSINK/TO220/PF752 THERMALLOY TO220" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 0 -100 0 100 N
+P 2 0 0 6 0 100 -45 100 N
+P 2 0 0 6 -45 100 -45 85 N
+P 2 0 0 6 -45 85 -15 85 N
+P 2 0 0 6 -15 85 -15 50 N
+P 2 0 0 6 -15 50 -45 50 N
+P 2 0 0 6 -45 50 -45 35 N
+P 2 0 0 6 -45 35 -15 35 N
+P 2 0 0 6 -15 35 -15 -35 N
+P 2 0 0 6 -15 -35 -45 -35 N
+P 2 0 0 6 -45 -35 -45 -50 N
+P 2 0 0 6 -45 -50 -15 -50 N
+P 2 0 0 6 -15 -50 -15 -85 N
+P 2 0 0 6 -15 -85 -45 -85 N
+P 2 0 0 6 -45 -85 -45 -100 N
+P 2 0 0 6 -45 -100 0 -100 N
+P 2 0 0 6 15 100 0 100 N
+P 2 0 0 6 40 55 40 80 N
+A 20 80 20 -1 1800 0 0 6 N 0 80 40 80
+A 40 35 20 900 2699 0 0 6 N 40 55 40 15
+P 2 0 0 16 10 65 10 -95 N
+P 2 0 0 16 10 -95 50 -95 N
+P 2 0 0 16 50 -95 50 -5 N
+P 2 0 0 16 50 -5 20 -5 N
+P 2 0 0 16 20 -5 20 -80 N
+P 2 0 0 16 20 -80 40 -80 N
+P 2 0 0 16 40 -80 40 -15 N
+P 2 0 0 16 40 -15 30 -15 N
+P 2 0 0 16 30 -15 30 -70 N
+P 2 0 0 12 20 -100 20 -140 N
+ENDDRAW
+ENDDEF
+#
+# End Library
